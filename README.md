@@ -1,10 +1,6 @@
 <h2 align="center">👋 Halo, saya Luthfi</h2>
 
-###
-
-<h4 align="left">📖 Tentang Saya</h4>
-
-###
+###📖 Tentang Saya
 
 <p align="left">Saya adalah seorang mahasiswa Teknik Informatika yang tertarik dengan pengembangan aplikasi web dan teknologi cloud.<br>Fokus saya sekarang adalah mendalami Laravel, Javascript, dan Cloud Computing, serta memperkuat dasar-dasar database dan sistem informasi.<br><br>💻 Tertarik pada pengembangan backend serta integrasi dengan cloud.<br>🤝 Terbuka untuk berkolaborasi pada proyek open-source maupun penelitian kampus.<br>📈 Punya target untuk terus meningkatkan kemampuan problem-solving di bidang IT.</p>
 
@@ -48,11 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luthfimubarok71&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<p align="left">📬 Kontak Saya</p>
-
-###
+### 📬 Kontak Saya
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
