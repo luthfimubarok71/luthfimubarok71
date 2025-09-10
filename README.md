@@ -36,11 +36,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
 
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luthfimubarok71&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+---
 
 ### 📬 Kontak Saya
 
