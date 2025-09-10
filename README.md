@@ -1,4 +1,4 @@
-<h2 align="left">👋 Halo, saya Luthfi</h2>
+<h2 align="center">👋 Halo, saya Luthfi</h2>
 
 ###
 
