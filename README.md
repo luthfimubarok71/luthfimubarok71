@@ -8,7 +8,7 @@
 
 <p align="left">Saya adalah seorang mahasiswa Teknik Informatika yang tertarik dengan pengembangan aplikasi web dan teknologi cloud.<br>Fokus saya sekarang adalah mendalami Laravel, Javascript, dan Cloud Computing, serta memperkuat dasar-dasar database dan sistem informasi.<br><br>💻 Tertarik pada pengembangan backend serta integrasi dengan cloud.<br>🤝 Terbuka untuk berkolaborasi pada proyek open-source maupun penelitian kampus.<br>📈 Punya target untuk terus meningkatkan kemampuan problem-solving di bidang IT.</p>
 
-###
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=luthfimubarok71.luthfimubarok71&"  />
